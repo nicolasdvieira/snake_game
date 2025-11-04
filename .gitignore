@@ -1,0 +1,7 @@
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+.env/
+venv/
