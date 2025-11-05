@@ -30,6 +30,7 @@ This is one of my first projects — a fun way to learn about game loops, keyboa
 
 🧩 About the Project
   This small project helped me practice:
+  
     Using Tkinter for simple GUIs
     Handling keyboard events
     Creating a basic game loop
