@@ -1,6 +1,6 @@
-# 🐍 Snake Game (Tkinter)
+# 🐍 Snake Game (Pygame)
 
-A simple **Snake Game** made with **Python** and **Tkinter**.  
+A simple **Snake Game** made with **Python** and **Pygame**.  
 This is one of my first projects — a fun way to learn about game loops, keyboard input, and GUI programming!
 
 ---
@@ -26,13 +26,13 @@ This is one of my first projects — a fun way to learn about game loops, keyboa
 ⚙️ Requirements
 
       Python 3.x
-      Tkinter (usually comes with Python)
+      Pygame
 
 
 🧩 About the Project
   This small project helped me practice:
   
-    Using Tkinter for simple GUIs
+    Using Pygame for simple GUIs
     Handling keyboard events
     Creating a basic game loop
     Working with coordinates and collisions
