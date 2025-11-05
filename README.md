@@ -24,6 +24,7 @@ This is one of my first projects — a fun way to learn about game loops, keyboa
 6. Press SPACE again to restart.
 
 ⚙️ Requirements
+
       Python 3.x
       Tkinter (usually comes with Python)
 
